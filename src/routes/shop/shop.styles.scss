@@ -4,7 +4,12 @@
     column-gap: 10px;
     row-gap: 50px;
 }
-
+h2{
+    font-size: 60px;
+    text-transform: uppercase;
+    margin: 30px 0 15px 0;
+    text-align: center;
+}
 @media (max-width: 670px){
     .products-container{
 
